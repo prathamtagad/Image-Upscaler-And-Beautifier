@@ -3,6 +3,14 @@
 
 This Python script serves as a basic image enhancer, designed to improve the quality of images through various enhancement features. The program is equipped with functionality for upscaling images, which increases their resolution and overall size without compromising quality. Additionally, it sharpens images, enhancing the clarity of details and edges, making the visuals more defined. The script also adjusts and enriches the colors within the images, making them appear more vibrant and visually appealing. This versatile tool is perfect for users looking to enhance images for personal or professional use with just a few lines of code.
 
+## Before Upscaling and Enhansing
+
+![Before](https://github.com/prathamtagad/Image-Upscaler-And-Beautifier/blob/main/Images/example.jpg?raw=true)
+
+## After Upscaling and Enhansing
+
+![l](https://github.com/prathamtagad/Image-Upscaler-And-Beautifier/blob/main/Images/upscaled%20example.jpg?raw=true)
+
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
