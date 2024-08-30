@@ -12,7 +12,7 @@ your local machine for development and testing purposes.
 
 Requirements for the Upscaler  to build, test and push -
 - [Pillow](https://pypi.org/project/pillow/)
-- [Tkinter]()
+- [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
 ### Installing
 
